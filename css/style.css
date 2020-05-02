@@ -1,0 +1,163 @@
+body{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h2{
+    font-family: 'Bree Serif', serif;
+   /* font-size: 5.625rem;*/
+   font-size: 2.5rem;
+   color: #66BFBF;
+   padding-bottom: 10px;
+
+}
+
+h3{
+    font-family: 'Abel', sans-serif;
+    color: #11999E;
+   
+}
+
+.top-container{
+    background-color: #ecfbfc;
+    
+    padding: 40px;
+}
+
+.top-container h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2px;
+    position: relative;
+    top: 40px;
+    margin: 50px auto 0 auto;
+}
+
+
+.top-container h3{
+    font-size: 2.5rem;
+    font-weight: normal;
+    position: relative;
+    top: 40px;
+}
+
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.description{
+    width: 30%;
+    margin: auto;
+}
+.cloud-bottom{
+    position: absolute;
+    left: 270px;
+}
+
+.cloud-top{
+    position: absolute;
+    right: 250px;
+    top: 40;
+}
+
+.mountain{
+    position: relative;
+    top: 44px;
+}
+
+p{
+    line-height: 2;
+
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.image1{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+a{
+    color: #11999E;
+
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.btn{
+    border: 1px #11999e solid;
+    background-color: #11999e;
+    color:#eaf6f6 ;
+    margin: 10px 30px;
+    border-radius: 7px;
+    padding: 10px 20px;
+}
+
+.btn:hover{
+    background-color: #ffffff;
+    color: cadetblue;
+}
+
+/*.code-clear{
+    clear: left;
+}
+
+.code-clear1{
+    clear: right;
+
+}*/
